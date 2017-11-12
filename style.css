@@ -1,0 +1,23 @@
+﻿
+.square {
+    border: 1px solid black;
+    width: 35px;
+    height: 100%;
+    display: inline-block;
+
+}
+
+
+div {
+    margin: 0;
+    height: 35px;
+}
+
+
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+}
